@@ -8,7 +8,10 @@ has_toc: false
 
 ## 1. What is Python
 
-[Python](https://www.python.org/) is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It was created by Guido van Rossum and first released in 1991. Python is designed to emphasize **code readability**, making it easy for programmers to express their ideas in a clear and concise manner.
+> [Python](https://www.python.org/) is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python emphasizes **code readability** and uses **English-like syntax**, making it easier for beginners to understand and write code.
+<div style="text-align: right">
+	<p><a href="https://www.linkedin.com/pulse/importance-python-programming-satish-kumar-d/">Satish Kumar D "Importance of Python Programming"</a></p>
+</div>
 
 It is widely used in various fields, such as web development, data science, machine learning, scientific computing, automation, scripting, and more. It has gained immense popularity over the years due to its ease of learning, broad applicability, and strong community support.
 

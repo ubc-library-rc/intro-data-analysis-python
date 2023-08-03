@@ -67,7 +67,7 @@ print(a < c) <br>
 
 ## 2. Functions
 
-When we calculate the sum of all the integers from 1 to 100, we use a formula to help simplify the calculation. What if we cannot memorize the formula? Does it mean that we have to sum those integers brute force by typing 1 + 2 + 3 + ... all the way up to 100? We can use two built-in functions `sum()` and `range()`.
+When we calculate the sum of all the integers from 1 to 100, we use a formula to help simplify the calculation. What if we cannot memorize the formula? Does it mean that we have to sum those integers by typing 1 + 2 + 3 + ... all the way up to 100? We can use two built-in functions `sum()` and `range()`.
 
 Input
 {: .label .label-green}
