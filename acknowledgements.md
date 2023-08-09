@@ -10,3 +10,5 @@ Site template adapted from the [just-the-docs](https://github.com/pmarsceill/jus
 This workshop was developed by Ashley Yue Mao (Graduate Academic Assistant, Author).
 
 Copyright: UBC Library Research Commons, [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+
+Disclosure: The workshop description and course plan is partially prepared using [ChatGPT](https://openai.com/blog/chatgpt).
