@@ -33,6 +33,8 @@ At the end of this workshop, you will be able to:
 ## Resources
 * [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 * [Python for Everybody](https://www.py4e.com/book.php)
+* [Python for Librarians](https://librarycarpentry.org/library-python/)
+* [Introduction to Python for Data Analysis](https://ubc-library-rc.github.io/intro-python/)
 
 
 <p style="color:grey; font-size:14px; padding-top: 2em"> This workshop was developed by Ashley Yue Mao (Author). <br>
