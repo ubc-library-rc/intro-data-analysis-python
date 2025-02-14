@@ -1,5 +1,7 @@
 # Introduction to Python for Data Analysis (Beginner)
 ### UBC Library Research Commons
+
+:heavy_exclamation_mark: __This workshop is archived and is no longer developed.__ :heavy_exclamation_mark:  
     
 Link to workshop: https://ubc-library-rc.github.io/intro-data-analysis-python/
 
