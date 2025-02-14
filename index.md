@@ -4,6 +4,9 @@ title: Outline
 nav_order: 1
 ---
 
+This workshop is archived and no longer developed.
+{: .note}
+
 ## Welcome to Introduction to Python for Data Analysis (Beginner)
 
 This workshop is an orientation intended for **beginners** who have little to no experience with Python and using Python for data analysis.
